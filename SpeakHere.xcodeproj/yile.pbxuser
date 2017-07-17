@@ -1,0 +1,215 @@
+// !$*UTF8*$!
+{
+	0AA063A80DE25FDD00E0B35D /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1008, 2431}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2890, 1299}";
+		};
+	};
+	0ABD2BC40DDE0C6B00806367 /* AudioViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1008, 10897}}";
+			sepNavSelRange = "{5612, 0}";
+			sepNavVisRange = "{5181, 706}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpeakHere */ = {
+		activeExec = 0;
+		executables = (
+			37E207660EECACB8004C45B8 /* SpeakHere */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 37E207660EECACB8004C45B8 /* SpeakHere */;
+		activeSDKPreference = iphonesimulator2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpeakHere */;
+		codeSenseManager = 37E2077A0EECACCA004C45B8 /* Code sense */;
+		executables = (
+			37E207660EECACB8004C45B8 /* SpeakHere */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					830,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 251741541;
+			PBXWorkspaceStateSaveDate = 251741541;
+		};
+		perUserProjectItems = {
+			3706FB7B0F01452C00B54CD0 /* PBXTextBookmark */ = 3706FB7B0F01452C00B54CD0 /* PBXTextBookmark */;
+			3706FBA50F01457F00B54CD0 /* PBXTextBookmark */ = 3706FBA50F01457F00B54CD0 /* PBXTextBookmark */;
+			3706FBA60F01457F00B54CD0 /* PBXTextBookmark */ = 3706FBA60F01457F00B54CD0 /* PBXTextBookmark */;
+			3706FBA70F01457F00B54CD0 /* PBXTextBookmark */ = 3706FBA70F01457F00B54CD0 /* PBXTextBookmark */;
+			3706FBAF0F01459E00B54CD0 /* PBXTextBookmark */ = 3706FBAF0F01459E00B54CD0 /* PBXTextBookmark */;
+			37E2077C0EECACF2004C45B8 /* PBXTextBookmark */ = 37E2077C0EECACF2004C45B8 /* PBXTextBookmark */;
+			37E2077E0EECACF2004C45B8 /* PBXTextBookmark */ = 37E2077E0EECACF2004C45B8 /* PBXTextBookmark */;
+			37E2077F0EECACF2004C45B8 /* PBXTextBookmark */ = 37E2077F0EECACF2004C45B8 /* PBXTextBookmark */;
+			37E207800EECACF2004C45B8 /* PBXTextBookmark */ = 37E207800EECACF2004C45B8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 37E207790EECACCA004C45B8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3706FB7B0F01452C00B54CD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 849960820DF8B96500BE8DEF /* SpeakHereAppDelegate.h */;
+		name = "SpeakHereAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2750;
+		vrLoc = 0;
+	};
+	3706FBA50F01457F00B54CD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0ABD2BC40DDE0C6B00806367 /* AudioViewController.m */;
+		name = "AudioViewController.m: 136";
+		rLen = 0;
+		rLoc = 5612;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 5181;
+	};
+	3706FBA60F01457F00B54CD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AA063A80DE25FDD00E0B35D /* ReadMe.txt */;
+		name = "ReadMe.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2184;
+		vrLoc = 0;
+	};
+	3706FBA70F01457F00B54CD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0ABD2BC40DDE0C6B00806367 /* AudioViewController.m */;
+		name = "AudioViewController.m: 136";
+		rLen = 0;
+		rLoc = 5612;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 5181;
+	};
+	3706FBAF0F01459E00B54CD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AA063A80DE25FDD00E0B35D /* ReadMe.txt */;
+		name = "ReadMe.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1299;
+		vrLoc = 2890;
+	};
+	37E207660EECACB8004C45B8 /* SpeakHere */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpeakHere;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	37E207790EECACCA004C45B8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	37E2077A0EECACCA004C45B8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	37E2077C0EECACF2004C45B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 849960810DF8B96500BE8DEF /* SpeakHereAppDelegate.m */;
+		name = "SpeakHereAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1865;
+		vrLoc = 0;
+	};
+	37E2077E0EECACF2004C45B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AA063A80DE25FDD00E0B35D /* ReadMe.txt */;
+		name = "ReadMe.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1894;
+		vrLoc = 0;
+	};
+	37E2077F0EECACF2004C45B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 849960820DF8B96500BE8DEF /* SpeakHereAppDelegate.h */;
+		name = "SpeakHereAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1865;
+		vrLoc = 0;
+	};
+	37E207800EECACF2004C45B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 849960810DF8B96500BE8DEF /* SpeakHereAppDelegate.m */;
+		name = "SpeakHereAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1865;
+		vrLoc = 0;
+	};
+	849960810DF8B96500BE8DEF /* SpeakHereAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1008, 1273}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1865}";
+		};
+	};
+	849960820DF8B96500BE8DEF /* SpeakHereAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1, 2433}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2750}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1008, 442}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 318}";
+		};
+	};
+}

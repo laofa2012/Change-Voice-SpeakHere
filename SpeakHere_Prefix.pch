@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'SpeakHere' target in the 'SpeakHere' project
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#define kBufferDurationSeconds .5
+#define DOCUMENTS_FOLDER [NSHomeDirectory() stringByAppendingPathComponent:@"Documents"]
+#endif
