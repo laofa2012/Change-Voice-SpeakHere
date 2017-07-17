@@ -35,6 +35,7 @@
 		32D31300159870E000037E88 /* CAStreamBasicDescription.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 32D312FB159870E000037E88 /* CAStreamBasicDescription.cpp */; };
 		32D31301159870E000037E88 /* CAXException.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 32D312FD159870E000037E88 /* CAXException.cpp */; };
 		32D313041598722500037E88 /* FaPlayer.mm in Sources */ = {isa = PBXBuildFile; fileRef = 32D313031598722500037E88 /* FaPlayer.mm */; };
+		6EBA7A7C1F1C85D30004BA59 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 6EBA7A7B1F1C85D30004BA59 /* README.md */; };
 		8399337A0DE732FD0007598A /* soundbar_mono.png in Resources */ = {isa = PBXBuildFile; fileRef = 839933780DE732FD0007598A /* soundbar_mono.png */; };
 		8399337B0DE732FD0007598A /* soundbar_plate_mono.png in Resources */ = {isa = PBXBuildFile; fileRef = 839933790DE732FD0007598A /* soundbar_plate_mono.png */; };
 		839933CB0DE738600007598A /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 839933CA0DE738600007598A /* QuartzCore.framework */; };
@@ -46,7 +47,6 @@
 		0AA063200DE2532F00E0B35D /* ControllerView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ControllerView.xib; path = en.lproj/ControllerView.xib; sourceTree = "<group>"; };
 		0AA063210DE2532F00E0B35D /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = en.lproj/icon.png; sourceTree = "<group>"; };
 		0AA063220DE2532F00E0B35D /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		0AA063A80DE25FDD00E0B35D /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; wrapsLines = 1; };
 		0AB943600DCAEC200032EBC4 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D6058910D05DD3D006BFB54 /* SpeakHere.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeakHere.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,6 +94,7 @@
 		32D312FE159870E000037E88 /* CAXException.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAXException.h; sourceTree = "<group>"; };
 		32D313021598722500037E88 /* FaPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FaPlayer.h; sourceTree = "<group>"; };
 		32D313031598722500037E88 /* FaPlayer.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = FaPlayer.mm; sourceTree = "<group>"; };
+		6EBA7A7B1F1C85D30004BA59 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		839933780DE732FD0007598A /* soundbar_mono.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = soundbar_mono.png; path = en.lproj/soundbar_mono.png; sourceTree = "<group>"; };
 		839933790DE732FD0007598A /* soundbar_plate_mono.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = soundbar_plate_mono.png; path = en.lproj/soundbar_plate_mono.png; sourceTree = "<group>"; };
 		839933CA0DE738600007598A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
@@ -143,7 +144,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				0AA063A80DE25FDD00E0B35D /* ReadMe.txt */,
+				6EBA7A7B1F1C85D30004BA59 /* README.md */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -336,6 +337,7 @@
 				32D313041598722500037E88 /* FaPlayer.mm in Sources */,
 				32CDF7C61599495200A596F5 /* ChangeVoiceController.mm in Sources */,
 				32CDF7CE15994FF400A596F5 /* ChangeVoiceViewController.m in Sources */,
+				6EBA7A7C1F1C85D30004BA59 /* README.md in Sources */,
 				32CDF7D115996A2400A596F5 /* FaLevelMeter.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
